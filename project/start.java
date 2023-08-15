@@ -13,7 +13,7 @@ public class start
 	Scanner sc=new Scanner(System.in);
 	void first()
 	{	
-		
+		System.out.println("Bhushan");
 		System.out.println("<<--------------------------------------------------------------------------------->>");
 		System.out.println("<<-------------------------------WELCOME------------------------------------------->>");	     						    	
 		System.out.println("<<-------------------------TO LALLU PHOTOGRAPHY------------------------------------>>");
